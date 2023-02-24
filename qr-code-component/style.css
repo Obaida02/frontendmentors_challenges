@@ -1,9 +1,7 @@
 body{
     background-color:hsl(212, 45%, 89%);
     height: 100vh;
-    /* font-family: 'Merriweather', serif; */
     font-family: 'Outfit', sans-serif;
-    /* font-family: 'Work Sans', sans-serif; */
 }
 .countainer{
     background-color: hsl(0, 0%, 100%);
@@ -16,19 +14,19 @@ body{
     left: 50%;
     transform: translate(-50%, -50%);
 }
-img,h1,p{
-    margin: 15px;
+img,h2,p{
+    margin: 20px;
 }
 img{
     border-radius: 20px;
 }
-h1,p{
+h2,p{
     text-align: center;
 }
 p{
     color: hsl(220, 15%, 55%);
     font-size: 15px;
 }
-h1{
+h2{
     color: hsl(218, 44%, 22%);;
 }
